@@ -1,3 +1,3 @@
 # ECMAScript
 
-Datos sobre los cambios de Javascript desde 2015
+Datos y código sobre los cambios de Javascript desde 2015
